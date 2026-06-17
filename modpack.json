@@ -46,13 +46,8 @@
       "md5": "b46695487898cb9dad25a5ab1283de4f"
     },
     {
-      "name": "Arcanmira v1.5.2 - copia.jar",
-      "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/Arcanmira v1.5.2 - copia.jar",
-      "md5": "38ac12f8bb3c198ed2a08b6abac341bd"
-    },
-    {
-      "name": "Arcanmira v1.5.2.jar",
-      "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/Arcanmira v1.5.2.jar",
+      "name": "Arcanmira-v1.5.2.jar",
+      "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/Arcanmira-v1.5.2.jar",
       "md5": "38ac12f8bb3c198ed2a08b6abac341bd"
     },
     {
@@ -801,8 +796,8 @@
       "md5": "bdc5481e8a6cbfa7d0c44841292730ca"
     },
     {
-      "name": "visual_keybinder-1.20.1 - 0.1.7.jar",
-      "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/visual_keybinder-1.20.1 - 0.1.7.jar",
+      "name": "visual_keybinder-1.20.1-0.1.7.jar",
+      "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/visual_keybinder-1.20.1-0.1.7.jar",
       "md5": "33e028286f87913beba38bd1322df9d3"
     },
     {
@@ -864,6 +859,10 @@
       "name": "zeroria_shops-1.0-SNAPSHOT.jar",
       "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/zeroria_shops-1.0-SNAPSHOT.jar",
       "md5": "8e9e399acfa256adbdd5ef02505eafc7"
+    },
+    {"name": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "md5": "e07fc42680a0163c99c21cfa9afb9816"
     }
   ]
 }
