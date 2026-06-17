@@ -860,9 +860,10 @@
     "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/zeroria_effects-1.0-SNAPSHOT.jar",
     "md5": "8448e67e34ecde2d16812b399aba8aaf"
   },
-  {
+ {
     "name": "zeroria_shops-1.0-SNAPSHOT.jar",
     "url": "https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/zeroria_shops-1.0-SNAPSHOT.jar",
     "md5": "8e9e399acfa256adbdd5ef02505eafc7"
   }
 ]
+}
