@@ -5,7 +5,7 @@
     "author": "OwariES",
     "body": "Si estás leyendo esto, significa que el sistema de noticias en la nube está funcionando perfectamente.\n\nPuedes escribir texto largo aquí, usar saltos de línea, e incluso agregar varias imágenes debajo de este texto colocando los links en la lista 'images'.",
     "images": [
-      "https://github.com/OwariES/Zeroria-Mods/blob/main/img/foto_prueba.png?raw=true",
+      "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/img/foto_prueba.png",
       "https://minecraft.wiki/images/thumb/Plains_1.18.png/300px-Plains_1.18.png"
     ]
   },
