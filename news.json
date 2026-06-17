@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Welcome to Zeroria Launcher!",
+    "date": "Mar 11, 2026, 3:49 AM",
+    "author": "OwariES",
+    "body": "Si estás leyendo esto, significa que el sistema de noticias en la nube está funcionando perfectamente.\n\nPuedes escribir texto largo aquí, usar saltos de línea, e incluso agregar una imagen debajo de este texto colocando el link en la variable 'image'.",
+    "image": ""
+  },
+  {
+    "title": "Soporte para múltiples artículos",
+    "date": "Mar 9, 2026, 3:19 AM",
+    "author": "Admin",
+    "body": "El sistema soporta cambiar de página usando las flechas de la parte inferior izquierda.\n\nTambién puedes dejar la imagen en blanco para que solo haya texto.",
+    "image": "https://minotar.net/helm/OwariES/100.png"
+  }
+]
