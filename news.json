@@ -3,14 +3,17 @@
     "title": "Welcome to Zeroria Launcher!",
     "date": "Mar 11, 2026, 3:49 AM",
     "author": "OwariES",
-    "body": "Si estás leyendo esto, significa que el sistema de noticias en la nube está funcionando perfectamente.\n\nPuedes escribir texto largo aquí, usar saltos de línea, e incluso agregar una imagen debajo de este texto colocando el link en la variable 'image'.",
-    "image": ""
+    "body": "Si estás leyendo esto, significa que el sistema de noticias en la nube está funcionando perfectamente.\n\nPuedes escribir texto largo aquí, usar saltos de línea, e incluso agregar varias imágenes debajo de este texto colocando los links en la lista 'images'.",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2ARtX4BYOiLenfBuHUyXtLAGX6LOYDTZ2Q&s",
+      "https://media.discordapp.net/attachments/1074462044935442564/1516915911431557181/Captura_de_pantalla_2026-06-17_221031.png?ex=6a346188&is=6a331008&hm=073d92bd374ece037bab910bff4a82a62bd09e471eb0049b016af15d5aa5932c&=&format=webp&quality=lossless&width=563&height=680"
+    ]
   },
   {
     "title": "Soporte para múltiples artículos",
     "date": "Mar 9, 2026, 3:19 AM",
     "author": "Admin",
-    "body": "El sistema soporta cambiar de página usando las flechas de la parte inferior izquierda.\n\nTambién puedes dejar la imagen en blanco para que solo haya texto.",
-    "image": "https://preview.redd.it/is-teto-a-vocaloid-im-confused-i-want-to-know-more-about-v0-2a7z64airdye1.jpeg?auto=webp&s=c4fe064a7beeaf33fea3aa0fae86ff0bfad971f1"
+    "body": "El sistema soporta cambiar de página usando las flechas de la parte inferior izquierda.\n\nTambién puedes dejar la lista de imágenes vacía para que solo haya texto.",
+    "images": []
   }
 ]
