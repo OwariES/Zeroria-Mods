@@ -1,1 +1,152 @@
-
+{
+  "packs": [
+    {
+      "name": "+§bHealtbars§8-[v1.5.2].zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/+§bHealtbars§8-[v1.5.2].zip"
+    },
+    {
+      "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip"
+    },
+    {
+      "name": "Abyssal 2.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Abyssal%202.zip"
+    },
+    {
+      "name": "Better+Lanterns+v1.2(mc-1.20.1).zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Better+Lanterns+v1.2(mc-1.20.1).zip"
+    },
+    {
+      "name": "Better-Leaves-9.5.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Better-Leaves-9.5.zip"
+    },
+    {
+      "name": "Better_Cats_V0.09.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Better_Cats_V0.09.zip"
+    },
+    {
+      "name": "Better_Dogs_V0.41.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Better_Dogs_V0.41.zip"
+    },
+    {
+      "name": "Better_Farm_Animals_v0.08.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Better_Farm_Animals_v0.08.zip"
+    },
+    {
+      "name": "Blades Of Majestica.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Blades%20Of%20Majestica.zip"
+    },
+    {
+      "name": "Blues_Better_Monstersv0.11.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Blues_Better_Monstersv0.11.zip"
+    },
+    {
+      "name": "Blues_Mimic_Creepers.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Blues_Mimic_Creepers.zip"
+    },
+    {
+      "name": "Brisal.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Brisal.zip"
+    },
+    {
+      "name": "cubic-sun-moon-v1.8.3a.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/cubic-sun-moon-v1.8.3a.zip"
+    },
+    {
+      "name": "Dramatic Skys Demo 1.5.3.35.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.35.zip"
+    },
+    {
+      "name": "Espada.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Espada.zip"
+    },
+    {
+      "name": "FA+Player-v1.0.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/FA+Player-v1.0.zip"
+    },
+    {
+      "name": "Fantasy_Ores_v9.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Fantasy_Ores_v9.zip"
+    },
+    {
+      "name": "Fresh Mob Overhaul v3.5 1.19-1.20.2.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Fresh%20Mob%20Overhaul%20v3.5%201.19-1.20.2.zip"
+    },
+    {
+      "name": "FreshAnimations_v1.10.4.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/FreshAnimations_v1.10.4.zip"
+    },
+    {
+      "name": "Glowing Trim Armors[MG-4.0][1.20.0-1.20.1].zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Glowing%20Trim%20Armors[MG-4.0][1.20.0-1.20.1].zip"
+    },
+    {
+      "name": "Gray\u0027s Mob Overhaul v11.3 1.19-1.20.2.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Gray\u0027s%20Mob%20Overhaul%20v11.3%201.19-1.20.2.zip"
+    },
+    {
+      "name": "Heraldic banner paterns.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Heraldic%20banner%20paterns.zip"
+    },
+    {
+      "name": "Monedas 2.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Monedas%202.zip"
+    },
+    {
+      "name": "Monedas.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Monedas.zip"
+    },
+    {
+      "name": "RSS.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/RSS.zip"
+    },
+    {
+      "name": "RugLife 1.18 v1.0.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/RugLife%201.18%20v1.0.zip"
+    },
+    {
+      "name": "Shiny Trims v6 (Optifine).zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Shiny%20Trims%20v6%20(Optifine).zip"
+    },
+    {
+      "name": "ShivaKlans\u0027 animated textures.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/ShivaKlans\u0027%20animated%20textures.zip"
+    },
+    {
+      "name": "Slightly-Improved-Font-1.1.5.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/Slightly-Improved-Font-1.1.5.zip"
+    },
+    {
+      "name": "waystones_1.20.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/waystones_1.20.zip"
+    },
+    {
+      "name": "[1.5] Enhanced Boss Bars.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/[1.5]%20Enhanced%20Boss%20Bars.zip"
+    },
+    {
+      "name": "§3Blue\u0027s §fBetter Skeletons v0.02.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/§3Blue\u0027s%20§fBetter%20Skeletons%20v0.02.zip"
+    },
+    {
+      "name": "§3Blue\u0027s §fBetter Zombies §7v0.13.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/§3Blue\u0027s%20§fBetter%20Zombies%20§7v0.13.zip"
+    },
+    {
+      "name": "§6Immersive§8_§6Interfaces§8.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
+    },
+    {
+      "name": "§6Immersive§8_§6Interfaces§8_§6Modded§8.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip"
+    },
+    {
+      "name": "§bEnchanting§8-§bReimagined§0_§8[v1.4]§0.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/§bEnchanting§8-§bReimagined§0_§8[v1.4]§0.zip"
+    },
+    {
+      "name": "§fReanimated §3Blue §7v0.09.zip",
+      "url": "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/resourcepacks/§fReanimated%20§3Blue%20§7v0.09.zip"
+    }
+  ]
+}
