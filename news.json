@@ -1,19 +1,19 @@
 [
   {
+    "title": "¡Gran apertura!",
+    "date": "Mar 07/07, 2026, 15:33",
+    "author": "La Administración",
+    "body": "Nos complace informar de que la gran apertura de Zeroria será el día 15 de Julio.",
+    "images": []
+  },
+  {
     "title": "¡Bienvenidos a Zeroria!",
-    "date": "Mar 11, 2026, 3:49 AM",
+    "date": "Mar 07/07, 2026, 11:24",
     "author": "La Administración",
     "body": "Estamos muy felices de presentar el gran servidor de Zeroria. \n\nEsperamos que pasen la mejor experiencia posible.",
     "images": [
       "https://raw.githubusercontent.com/OwariES/Zeroria-Mods/main/img/foto_prueba.png",
       "https://minecraft.wiki/images/thumb/Plains_1.18.png/300px-Plains_1.18.png"
     ]
-  },
-  {
-    "title": "Prueba segunda página",
-    "date": "Mar 9, 2026, 3:19 AM",
-    "author": "Admin",
-    "body": "Esto es una prueba de la segunda página, sin imágenes.",
-    "images": []
   }
 ]
