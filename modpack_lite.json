@@ -68,4 +68,5 @@
     {"name":"entity_texture_features_1.20.1-forge-7.1.jar","url":"https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/entity_texture_features_1.20.1-forge-7.1.jar","md5":"bb8a57f4e9965654c344854fb45dd540"},
     {"name":"exoticbirds-1.20.1-1.0.0.jar","url":"https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/exoticbirds-1.20.1-1.0.0.jar","md5":"ab7c13f856671330ac77eac0c4afac95"},
     {"name":"ExtraLib-1.7.3-1.20.1-Forge.jar","url":"https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/ExtraLib-1.7.3-1.20.1-Forge.jar","md5":"4136027b95ab1a2e24fb18e08ad8dc33"},
-    {"name":"fabric-api-0.92.6+1.11.1
+    {"name":"fabric-api-0.92.6+1.11.14+1.20.1.jar","url":"https://github.com/OwariES/Zeroria-Mods/releases/download/v2.0/fabric-api-0.92.6+1.11.14+1.20.1.jar","md5":"2859d401e221e94acf0b48c5f7efa50b"}
+]}
